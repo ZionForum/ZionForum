@@ -1,4 +1,4 @@
-<img width="1439" height="882" alt="image" src="https://github.com/user-attachments/assets/c4328abe-9136-41d0-8126-cdffa731f600" /><div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=230&section=header&text=Zion%20El%20Gabriel%20Chua&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Developer%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20Technology%20Enthusiast&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
 

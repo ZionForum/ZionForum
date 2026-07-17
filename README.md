@@ -40,3 +40,99 @@ const zion = {
 
     motto: "Learn continuously. Build creatively. Improve consistently."
 };
+```
+
+<br>
+
+## 🚀 Technology Arsenal
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Programming Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,c,cpp,cs,php,python,r,html,css&perline=5" alt="Programming languages" />
+
+<br><br>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" height="48" alt="VB.NET" title="VB.NET" />
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Frameworks & Libraries
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,tailwindcss&perline=4" alt="Frameworks and libraries" />
+
+</div>
+
+<br>
+
+### 🗄️ Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=4" alt="Databases" />
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,git&perline=4" alt="Development tools" />
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Platforms & Environments
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=github,linux&perline=4" alt="Platforms and environments" />
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<br>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ⭐ Explore my repositories and follow my development journey.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=130&section=footer" width="100%" />
+
+</div>

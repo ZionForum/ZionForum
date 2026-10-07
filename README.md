@@ -53,7 +53,10 @@ public class ZionChua implements Engineer {
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/Visual%20Basic-945DB7?style=for-the-badge&logo=visualstudio&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### Frontend & Web
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -75,6 +78,7 @@ public class ZionChua implements Engineer {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![reCAPTCHA](https://img.shields.io/badge/Google-reCAPTCHA-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![ISC2 CC](https://img.shields.io/badge/ISC2-CC-00A3E0?style=for-the-badge)
 
 </div>
 
@@ -82,21 +86,9 @@ public class ZionChua implements Engineer {
 <summary><b>⚡ Click for the one-line skill set (animated icons)</b></summary>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,laravel,mysql,js,html,css,tailwind,cs,dotnet,cpp,git,maven,gradle,linux,windows&perline=8" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=java,php,laravel,mysql,js,html,css,tailwind,c,cs,cpp,dotnet,r,git,maven,gradle,linux,windows&perline=9" alt="skills"/>
 </div>
 </details>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZionForum/ZionForum/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZionForum/ZionForum/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/ZionForum/ZionForum/output/github-snake.svg" />
-  </picture>
-</div>
 
 ---
 

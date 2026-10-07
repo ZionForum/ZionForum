@@ -1,3 +1,5 @@
+<!-- 🔧 Replace every ZionForum with your GitHub username -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Zion%20El%20Gabriel%20Chua&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Security-Minded&descAlignY=60&descSize=18" width="100%" alt="header"/>
@@ -13,7 +15,7 @@
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea44f?style=for-the-badge&logo=statuspage&logoColor=white)
 
 [![Gmail](https://img.shields.io/badge/Email-zionchuaIS37%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zionchuaIS37@gmail.com)
-[![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00A3E0?style=for-the-badge&logo=hackthebox&logoColor=white)](#-certifications)
+[![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00A3E0?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.isc2.org/certifications/cc)
 
 </div>
 
@@ -94,111 +96,6 @@ public class ZionChua implements Engineer {
   <img src="https://skillicons.dev/icons?i=java,php,laravel,mysql,js,html,css,tailwind,cs,dotnet,cpp,git,maven,gradle,linux,windows&perline=8" alt="skills"/>
 </div>
 </details>
-
----
-
-## 🧭 What I Do
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Backend Engineering
-- Core POS backend features from business requirements
-- Complex, optimized **SQL** & CRUD operations
-- JDBC ↔ MySQL integration
-- Automated **backup & restore** in Java + SQL
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Full-Stack Web
-- Laravel + Blade + Tailwind modules
-- Responsive, user-focused workflows
-- Frontend ↔ backend integration
-- Git feature-branch collaboration
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Data Pipelines & Reports
-- Import/export to **PDF, Excel, text**
-- Real-time validation & duplicate detection
-- Financial report layouts (Jaspersoft / iReport)
-- Interactive drill-down charts (JFreeChart)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 Security & Infrastructure
-- Input sanitization & credential verification
-- Google reCAPTCHA on public forms
-- Network, server & OS troubleshooting
-- Secure off-boarding & data handling
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Career Journey
-
-```mermaid
-flowchart LR
-    A["🎓 ICT<br/>Arellano University<br/>2018 – 2020"] --> B["💻 BS Computer Science<br/>Arellano University<br/>2020 – 2024"]
-    B --> C["🛠️ IT Support Intern<br/>Nexus Technologies<br/>Jun – Sep 2023"]
-    C --> D["🚀 Programmer<br/>Phillogix Systems<br/>Dec 2024 – Present"]
-    style A fill:#0f2027,stroke:#00F5D4,color:#fff
-    style B fill:#203a43,stroke:#00F5D4,color:#fff
-    style C fill:#2c5364,stroke:#00F5D4,color:#fff
-    style D fill:#00b4d8,stroke:#ffffff,color:#000
-```
-
-<details open>
-<summary><b>🚀 Programmer @ Phillogix Systems Inc.</b> &nbsp;·&nbsp; <i>Dec 2024 – Present</i></summary>
-<br/>
-
-- 🧩 Designed and maintained core backend functionality for a **Point-of-Sale (POS)** system
-- 🗄️ Optimized complex **SQL queries** to improve application performance
-- 🌐 Built full-stack modules with **PHP, JavaScript, Tailwind CSS & Laravel**
-- 🔄 Engineered secure **import/export pipelines** (PDF, Excel, text) with real-time validation and duplicate detection
-- 💾 Developed automated **database backup & restore** with Java and SQL
-- 📈 Designed dynamic financial reports and **drill-down charts** (Jaspersoft Studio, iReport, JFreeChart)
-- 🧪 Ran functional testing focused on credentials, database records and financial report security
-- 🛡️ Integrated **Google reCAPTCHA** to block automated spam
-- 🌿 Managed code with **Git**, collaborating on test deployments and fixes
-- 🖥️ Remotely troubleshot live POS systems and supported end users
-
-</details>
-
-<details>
-<summary><b>🛠️ Internal Technical Support (Intern) @ Nexus Technologies Inc.</b> &nbsp;·&nbsp; <i>Jun 2023 – Sep 2023</i></summary>
-<br/>
-
-- 🌐 Troubleshot LAN, Wi-Fi, IP configuration and DNS resolution
-- 💿 Deployed workstations: OS installs, BIOS config, credential setup
-- 🔧 Diagnosed and repaired SSDs, HDDs, RAM and batteries across desktops, laptops and servers
-- 🔒 Executed secure off-boarding: access revocation and data transfer/wiping
-- 🎫 Tracked IT requests via ticketing and documented internal guides
-- 💾 Verified daily server backups and assisted with data recovery
-
-</details>
-
----
-
-## 🏅 Certifications
-
-<div align="center">
-
-![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity%20(CC)-00A3E0?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-Multithreading%2C%20Concurrency%20%26%20Performance-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Research](https://img.shields.io/badge/Fundamentals%20of-Research%20Methodology-6f42c1?style=for-the-badge)
-![R](https://img.shields.io/badge/Statistical%20Data%20Analysis%20with-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-</div>
 
 ---
 

@@ -1,5 +1,3 @@
-<!-- 🔧 Replace every ZionForum with your GitHub username -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Zion%20El%20Gabriel%20Chua&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Security-Minded&descAlignY=60&descSize=18" width="100%" alt="header"/>
@@ -86,7 +84,9 @@ public class ZionChua implements Engineer {
 <summary><b>⚡ Click for the one-line skill set (animated icons)</b></summary>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,laravel,mysql,js,html,css,tailwind,c,cs,cpp,dotnet,r,git,maven,gradle,linux,windows&perline=9" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=java,php,laravel,mysql,js,html,css,tailwind,c&perline=9" alt="skills row 1"/><img src="assets/vb.svg" width="48" height="48" alt="Visual Basic" style="margin-left:10px"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,r,git,maven,gradle,linux,windows&perline=9" alt="skills row 2"/>
 </div>
 </details>
 

@@ -84,7 +84,7 @@ public class ZionChua implements Engineer {
 <summary><b>⚡ Click for the one-line skill set (animated icons)</b></summary>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,laravel,mysql,js,html,css,tailwind,c&perline=9" alt="skills row 1"/><img src="assets/vb.svg" width="48" height="48" alt="Visual Basic" style="margin-left:10px"/>
+  <img src="https://skillicons.dev/icons?i=java,php,laravel,mysql,js,html,css,tailwind,c&perline=9" alt="skills row 1"/><img src="https://raw.githubusercontent.com/ZionForum/ZionForum/refs/heads/main/.github/assets/vb.svg" width="48" height="48" alt="Visual Basic"/>
   <br/>
   <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,r,git,maven,gradle,linux,windows&perline=9" alt="skills row 2"/>
 </div>

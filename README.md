@@ -1,5 +1,3 @@
-<!-- 🔧 Replace every YOUR_USERNAME with your GitHub username -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Zion%20El%20Gabriel%20Chua&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Security-Minded&descAlignY=60&descSize=18" width="100%" alt="header"/>
@@ -10,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00b4d8&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ZionForum&label=Profile%20Views&color=00b4d8&style=for-the-badge)
 ![Location](https://img.shields.io/badge/Based%20in-Metro%20Manila%2C%20PH-0f2027?style=for-the-badge&logo=googlemaps&logoColor=00F5D4)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea44f?style=for-the-badge&logo=statuspage&logoColor=white)
 
@@ -208,16 +206,16 @@ flowchart LR
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00F5D4&icon_color=00b4d8&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00F5D4&langs_count=8" alt="top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ZionForum&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00F5D4&icon_color=00b4d8&include_all_commits=true&count_private=true" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZionForum&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00F5D4&langs_count=8" alt="top languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0f2027&ring=00F5D4&fire=00b4d8&currStreakLabel=00F5D4" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=ZionForum&theme=tokyonight&hide_border=true&background=0f2027&ring=00F5D4&fire=00b4d8&currStreakLabel=00F5D4" alt="streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0f2027&color=00F5D4&line=00b4d8&point=ffffff&area=true&area_color=00b4d8" alt="activity graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZionForum&theme=tokyo-night&hide_border=true&bg_color=0f2027&color=00F5D4&line=00b4d8&point=ffffff&area=true&area_color=00b4d8" alt="activity graph" width="95%"/>
 
 </div>
 
@@ -227,9 +225,9 @@ flowchart LR
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZionForum/ZionForum/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZionForum/ZionForum/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/ZionForum/ZionForum/output/github-snake.svg" />
   </picture>
 </div>
 
